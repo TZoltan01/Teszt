@@ -1,0 +1,7 @@
+C:\Users\2021148\source\repos\TZoltan01\Teszt\KorHenger\bin\Debug\Kor.exe.config
+C:\Users\2021148\source\repos\TZoltan01\Teszt\KorHenger\bin\Debug\Kor.exe
+C:\Users\2021148\source\repos\TZoltan01\Teszt\KorHenger\bin\Debug\Kor.pdb
+C:\Users\2021148\source\repos\TZoltan01\Teszt\KorHenger\obj\Debug\KörHenger.csproj.AssemblyReference.cache
+C:\Users\2021148\source\repos\TZoltan01\Teszt\KorHenger\obj\Debug\KörHenger.csproj.CoreCompileInputs.cache
+C:\Users\2021148\source\repos\TZoltan01\Teszt\KorHenger\obj\Debug\Kor.exe
+C:\Users\2021148\source\repos\TZoltan01\Teszt\KorHenger\obj\Debug\Kor.pdb
