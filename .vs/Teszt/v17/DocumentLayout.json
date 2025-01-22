@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2021148\\source\\repos\\TZoltan01\\Teszt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A84451D7-C84B-4653-B9B1-DCA8251FC6D6}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\2021148\\source\\repos\\tzoltan01\\teszt\\consoleapp1\\atvalt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A84451D7-C84B-4653-B9B1-DCA8251FC6D6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\atvalt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Atvalt.cs",
+              "DocumentMoniker": "C:\\Users\\2021148\\source\\repos\\TZoltan01\\Teszt\\ConsoleApp1\\Atvalt.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Atvalt.cs",
+              "ToolTip": "C:\\Users\\2021148\\source\\repos\\TZoltan01\\Teszt\\ConsoleApp1\\Atvalt.cs",
+              "RelativeToolTip": "ConsoleApp1\\Atvalt.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:17:45.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

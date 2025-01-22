@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2021148\\source\\repos\\TZoltan01\\Teszt\\KorHenger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF06A25-AE53-424B-9612-81368008DEDB}|..\\K\u00F6rhenger_UnitTest\\K\u00F6rhenger_UnitTest.csproj|c:\\users\\2021148\\source\\repos\\tzoltan01\\teszt\\k\u00F6rhenger_unittest\\k\u00F6r_teszt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "K\u00F6r_Teszt.cs",
+              "DocumentMoniker": "C:\\Users\\2021148\\source\\repos\\TZoltan01\\Teszt\\K\u00F6rhenger_UnitTest\\K\u00F6r_Teszt.cs",
+              "RelativeDocumentMoniker": "..\\K\u00F6rhenger_UnitTest\\K\u00F6r_Teszt.cs",
+              "ToolTip": "C:\\Users\\2021148\\source\\repos\\TZoltan01\\Teszt\\K\u00F6rhenger_UnitTest\\K\u00F6r_Teszt.cs",
+              "RelativeToolTip": "..\\K\u00F6rhenger_UnitTest\\K\u00F6r_Teszt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:30:16.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

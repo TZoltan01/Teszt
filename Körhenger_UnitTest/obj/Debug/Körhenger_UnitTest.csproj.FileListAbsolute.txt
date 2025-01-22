@@ -12,6 +12,6 @@ C:\Users\2021148\source\repos\TZoltan01\Teszt\Körhenger_UnitTest\bin\Debug\Micr
 C:\Users\2021148\source\repos\TZoltan01\Teszt\Körhenger_UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\Users\2021148\source\repos\TZoltan01\Teszt\Körhenger_UnitTest\obj\Debug\Körhenger_UnitTest.csproj.AssemblyReference.cache
 C:\Users\2021148\source\repos\TZoltan01\Teszt\Körhenger_UnitTest\obj\Debug\Körhenger_UnitTest.csproj.CoreCompileInputs.cache
-C:\Users\2021148\source\repos\TZoltan01\Teszt\Körhenger_UnitTest\obj\Debug\Körhenger_UnitTest.csproj.CopyComplete
 C:\Users\2021148\source\repos\TZoltan01\Teszt\Körhenger_UnitTest\obj\Debug\Körhenger_UnitTest.dll
 C:\Users\2021148\source\repos\TZoltan01\Teszt\Körhenger_UnitTest\obj\Debug\Körhenger_UnitTest.pdb
+C:\Users\2021148\Source\Repos\TZoltan01\Teszt\Körhenger_UnitTest\obj\Debug\K_rhenge.37B28688.Up2Date
