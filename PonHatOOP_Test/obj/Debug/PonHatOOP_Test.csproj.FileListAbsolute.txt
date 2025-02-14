@@ -1,0 +1,2 @@
+C:\Users\2021148\source\repos\TZoltan01\Teszt\PonHatOOP_Test\obj\Debug\PonHatOOP_Test.csproj.AssemblyReference.cache
+C:\Users\2021148\source\repos\TZoltan01\Teszt\PonHatOOP_Test\obj\Debug\PonHatOOP_Test.csproj.CoreCompileInputs.cache

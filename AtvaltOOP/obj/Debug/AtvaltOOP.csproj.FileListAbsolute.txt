@@ -1,0 +1,2 @@
+C:\Users\2021148\Source\Repos\TZoltan01\Teszt\AtvaltOOP\obj\Debug\AtvaltOOP.csproj.AssemblyReference.cache
+C:\Users\2021148\Source\Repos\TZoltan01\Teszt\AtvaltOOP\obj\Debug\AtvaltOOP.csproj.CoreCompileInputs.cache

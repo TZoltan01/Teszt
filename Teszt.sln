@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.34301.259
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtvaltOOP", "AtvaltOOP\AtvaltOOP.csproj", "{6CFA2C78-E30E-4650-B644-3806AF7FC689}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PonHatOOP", "PonHatOOP\PonHatOOP.csproj", "{7B5A2864-EAD1-4F4C-9BDE-9DD9173CC129}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PonHatOOP_Test", "PonHatOOP_Test\PonHatOOP_Test.csproj", "{803A8570-A83F-485D-8AA2-73A0B56D6AB7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{6CFA2C78-E30E-4650-B644-3806AF7FC689}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CFA2C78-E30E-4650-B644-3806AF7FC689}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CFA2C78-E30E-4650-B644-3806AF7FC689}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B5A2864-EAD1-4F4C-9BDE-9DD9173CC129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B5A2864-EAD1-4F4C-9BDE-9DD9173CC129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B5A2864-EAD1-4F4C-9BDE-9DD9173CC129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B5A2864-EAD1-4F4C-9BDE-9DD9173CC129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{803A8570-A83F-485D-8AA2-73A0B56D6AB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803A8570-A83F-485D-8AA2-73A0B56D6AB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803A8570-A83F-485D-8AA2-73A0B56D6AB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803A8570-A83F-485D-8AA2-73A0B56D6AB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
