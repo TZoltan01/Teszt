@@ -8,8 +8,8 @@ namespace PonHatOOP
 {
     public class PontHat
     {
-        public int Pontszam { get; private set; }
-        public string Osztalyzat { get; private set; }
+        public int Pontszam;
+        public string Osztalyzat;
 
         // Konstruktor
         public PontHat()

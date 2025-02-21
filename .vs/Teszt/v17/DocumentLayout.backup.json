@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\2021148\\source\\repos\\TZoltan01\\Teszt\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B5A2864-EAD1-4F4C-9BDE-9DD9173CC129}|PonHatOOP\\PonHatOOP.csproj|c:\\users\\2021148\\source\\repos\\tzoltan01\\teszt\\ponhatoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5A2864-EAD1-4F4C-9BDE-9DD9173CC129}|PonHatOOP\\PonHatOOP.csproj|solutionrelative:ponhatoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B5A2864-EAD1-4F4C-9BDE-9DD9173CC129}|PonHatOOP\\PonHatOOP.csproj|C:\\Users\\2021148\\source\\repos\\TZoltan01\\Teszt\\PonHatOOP\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5A2864-EAD1-4F4C-9BDE-9DD9173CC129}|PonHatOOP\\PonHatOOP.csproj|solutionrelative:PonHatOOP\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{803A8570-A83F-485D-8AA2-73A0B56D6AB7}|PonHatOOP_Test\\PonHatOOP_Test.csproj|C:\\Users\\2021148\\source\\repos\\TZoltan01\\Teszt\\ponhatoop_test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{803A8570-A83F-485D-8AA2-73A0B56D6AB7}|PonHatOOP_Test\\PonHatOOP_Test.csproj|solutionrelative:ponhatoop_test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{803A8570-A83F-485D-8AA2-73A0B56D6AB7}|PonHatOOP_Test\\PonHatOOP_Test.csproj|C:\\Users\\2021148\\source\\repos\\TZoltan01\\Teszt\\PonHatOOP_Test\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{803A8570-A83F-485D-8AA2-73A0B56D6AB7}|PonHatOOP_Test\\PonHatOOP_Test.csproj|solutionrelative:PonHatOOP_Test\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,9 +26,9 @@
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\2021148\\source\\repos\\TZoltan01\\Teszt\\PonHatOOP_Test\\UnitTest1.cs",
               "RelativeDocumentMoniker": "PonHatOOP_Test\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\2021148\\source\\repos\\TZoltan01\\Teszt\\PonHatOOP_Test\\UnitTest1.cs*",
-              "RelativeToolTip": "PonHatOOP_Test\\UnitTest1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\2021148\\source\\repos\\TZoltan01\\Teszt\\PonHatOOP_Test\\UnitTest1.cs",
+              "RelativeToolTip": "PonHatOOP_Test\\UnitTest1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T10:45:58.783Z",
               "EditorCaption": ""
@@ -39,9 +39,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\2021148\\source\\repos\\TZoltan01\\Teszt\\PonHatOOP\\Program.cs",
               "RelativeDocumentMoniker": "PonHatOOP\\Program.cs",
-              "ToolTip": "C:\\Users\\2021148\\source\\repos\\TZoltan01\\Teszt\\PonHatOOP\\Program.cs*",
-              "RelativeToolTip": "PonHatOOP\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAsAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\2021148\\source\\repos\\TZoltan01\\Teszt\\PonHatOOP\\Program.cs",
+              "RelativeToolTip": "PonHatOOP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-14T10:45:39.166Z",
               "EditorCaption": ""

@@ -5,9 +5,9 @@ using PonHatOOP;
 namespace PonHatOOP_Test
 {
     [TestClass]
-    public class PontHatTests
+    public class PontHatTest
     {
-        private PontHat _pontHat;
+        public PontHat _pontHat;
 
         [TestMethod]
         public void Test_Pontszam_True()
